@@ -43,3 +43,8 @@
 .read-the-docs {
   color: #888;
 }
+
+.rotate {
+  transform: rotate(360deg);
+  transition: transform 1s linear;
+}
